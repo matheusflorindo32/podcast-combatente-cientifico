@@ -1,0 +1,17 @@
+Gere um texto de voz para o episódio do podcast “Combatente Científico”.
+
+O texto deve ser:
+- limpo
+- fluido
+- com pausas naturais
+- ideal para ser convertido em voz no ElevenLabs
+
+Estilo da voz:
+- masculino
+- calmo, firme e profissional
+- tom de instrutor tático
+
+Inclua:
+- introdução curta do episódio
+- explicação do tema
+- chamada final para ação: “Você é um combatente científico. Continue evoluindo.”
