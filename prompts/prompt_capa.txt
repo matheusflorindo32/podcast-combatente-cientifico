@@ -16,4 +16,6 @@ Formato da capa:
 - tons escuros, contrastes fortes
 - estilo: clean, profissional, moderno
 
+“Ultra-realistic tactical operator sitting in a podcast studio inside a military training room. Strong Brazilian special forces soldier wearing multicam shirt and tactical vest with Brazil patch, muscular arms, intense expression, professional posture. Holding a studio microphone mounted on an adjustable arm. Background filled with tactical gear: rifles on the wall, kettlebells, ammo magazines, radio, helmet, loadout items, gym equipment, ropes. Dramatic cinematic lighting with warm tones, volumetric light, sharp shadows. Highly detailed textures: skin, fabric, gear, metal, weapons. Modern podcast environment mixed with elite operator aesthetic. Military skull emblem with dagger and lightning behind him. Hyper-realistic, 8K, crisp, sharp, dramatic, masculine, powerful atmosphere. Text in bold stencil: ‘NÃO NEGOCIE COM SUA MENTE!’ in tactical yellow.”
+
 A descrição deve ser detalhada para ser usada em geradores de imagem.
