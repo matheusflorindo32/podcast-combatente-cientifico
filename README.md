@@ -10,7 +10,7 @@ Projeto desenvolvido no curso de Podcast com IA da DIO, utilizando ferramentas d
 O episódio aborda princípios científicos aplicados à performance tática, incluindo força, condicionamento, tomada de decisão, prevenção de lesões, sono, recuperação e nutrição operacional.
 
 🎧 **Arquivo final disponível em**:  
-`/saída/output/`
+`/output/`
 
 ---
 
@@ -18,16 +18,15 @@ O episódio aborda princípios científicos aplicados à performance tática, in
 
 podcast-combatente-cientifico/
 │
-├── saída/output/
-│ └── episodio01.mp3
+├── output/
+│   └── Combatente_Cientifico_EP01.mp3
 │
 └── prompts/
-├── prompt_capa.txt
-├── prompt_elevenlabs.txt
-├── prompt_roteiro_v2.txt
-├── prompt_titulo.txt
-│
-└── README.md
+    ├── prompt_roteiro_v2.txt
+    ├── prompt_titulo.txt
+    ├── prompt_capa.txt
+    └── prompt_elevenlabs.txt
+
 
 
 ---
