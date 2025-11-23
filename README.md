@@ -1,6 +1,10 @@
 # podcast-combatente-cientifico
 rojeto de podcast criado com IA durante o curso da DIO. Nome: Combatente Científico. Tópico: Treinamento tático baseado em evidências.
 # 🎧 Combatente Científico – Podcast criado com IA
+<p align="center">
+  <img src="capa_podcast_tático_sem_ossos.png" width="70%" />
+</p>
+
 
 Projeto desenvolvido no curso de Podcast com IA da DIO, utilizando ferramentas de Inteligência Artificial para gerar roteiro, título, imagem, voz sintetizada e edição final.
 
