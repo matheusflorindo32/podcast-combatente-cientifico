@@ -1,0 +1,19 @@
+Gere uma descrição completa de uma imagem de capa para podcast no estilo militar-científico.
+
+O podcast se chama “Combatente Científico”.
+
+A arte deve misturar:
+- elementos militares modernos
+- estética tática
+- tecnologia e ciência
+- luzes azuis e verde militar
+- ambiente de laboratório misturado com cenário tático
+- operador tático estilizado (NÃO realista)
+- traços de IA futurista
+
+Formato da capa:
+- 3000x3000 (formato padrão do Spotify/Apple Podcasts)
+- tons escuros, contrastes fortes
+- estilo: clean, profissional, moderno
+
+A descrição deve ser detalhada para ser usada em geradores de imagem.
